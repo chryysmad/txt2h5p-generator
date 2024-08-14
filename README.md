@@ -84,7 +84,7 @@ cd txt2h5p-generator
 ``` 
 2. Run the command.
 ```
-python3 h5p-parser.py control.txt MY-INPUT.txt 
+python3 parser.py control.txt MY-INPUT.txt 
 ```
 where `MY-INPUT.txt` is the input file you created that contains your MCQ and Fill in the Blanks questions and answers.
 
