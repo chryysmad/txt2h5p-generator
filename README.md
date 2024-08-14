@@ -89,3 +89,6 @@ python3 h5p-parser.py control.txt MY-INPUT.txt
 where `MY-INPUT.txt` is the input file you created that contains your MCQ and Fill in the Blanks questions and answers.
 
 The newly created H5P file will be found in the `txt2h5p-generator` directory.
+
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">txt2h5p-generator</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/chryysmad" property="cc:attributionName" rel="cc:attributionURL">chryysmad</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/chryysmad/txt2h5p-generator" rel="dct:source">https://github.com/chryysmad/txt2h5p-generator</a>.
